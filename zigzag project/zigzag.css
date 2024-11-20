@@ -1,0 +1,119 @@
+.overall{
+    background:url("https://templatemo.com/templates/templatemo_471_zigzag/img/header-bg.png") fixed center;
+    background-size: contain;
+    height: 85vw;
+}
+.secondpart{
+    background:url("https://templatemo.com/templates/templatemo_471_zigzag/img/sollication-bg.jpg") fixed center;
+    background-size: contain;
+    height: 70vw;
+}
+.secondpart{
+    color:white
+}
+.thridpart{
+    width: 100%;
+    background: url("https://templatemo.com/templates/templatemo_471_zigzag/img/contact-bg2.png")  center no-repeat;
+    height: 555px;
+}
+.partcenter {
+    width: 80%;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    justify-content: space-between;
+    padding-top: 10%;
+}
+.secondpart img{
+    width: 20%;
+    height: 20%;
+}
+.partdown{
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    align-items:space-between;
+    justify-content:flex-start;
+    margin-left:10%;
+}
+.partdown button{
+    width: fit-content;
+}
+.partcenter button, .partdown button{
+    padding:10px;
+    
+}
+.parent1 img{
+     width: 20%;
+     height: 30%;
+}
+
+.header{
+    display: flex;
+    justify-content:space-between;
+    gap: 20px;
+    padding:30px;
+}
+
+.parent{
+    display: flex;
+    color: white;
+    justify-content: left;
+}
+
+.parent>img{
+    width: 50%;
+
+}
+
+.child1{
+    display: flex;
+    gap:20px ;
+    background-color: black;
+    padding: 0%;
+    width:70%;
+    justify-content: space-between;
+
+}
+.child1>a{
+    display: flex;
+    justify-content:space-around;
+    align-items:center;
+    gap: 10px;
+    text-decoration: black;
+    color: white;
+    margin:30px;
+   
+}
+
+.parent>a{
+   display:flex;
+   text-decoration: none;
+}
+img{
+    height:100px;
+    width: 100px;
+}
+footer{
+    color:white;
+    text-align:right;
+    padding:10px;
+    background-color: black;
+}
+.background{
+    background: url("https://templatemo.com/templates/templatemo_471_zigzag/img/Client-bg1.png") fixed center;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+footer p{
+    text-align: center;
+}
+.thirdinput{
+    display: flex;
+    flex-direction: column;
+    width:20%;
+    gap:10PX;
+    margin-left: 50%;
+    margin-top: 10%;
+    align-items: center;
+}
